@@ -18,7 +18,7 @@ Waleed Abdulla
 ##### Backbon
  + Resnet-50\
     <img src="image/img_1.png">
-  - 출처: Automated segmentation of martensite-austenite islands in bainitic steel - Deniz İren
+   - 출처: Automated segmentation of martensite-austenite islands in bainitic steel - Deniz İren
 #### Parameters
 | 모델 파라미터 | 값     | 비고         |
 |---------|-------|------------|
@@ -39,7 +39,7 @@ Waleed Abdulla
 
 #### Evaluation
     - 목표 mAP 80% 이상
-    - 결과 84.561
+    - 결과 80.254
 <img src="image/img_7.png">
 
 ### 2. AI 곤충 생육 환경 분석모델
